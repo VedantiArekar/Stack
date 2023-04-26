@@ -10,18 +10,18 @@ LIFO( Last In First Out ):
 
 This strategy states that the element that is inserted last will come out first. You can take a pile of plates kept on top of each other as a real-life example. The plate which we put last is on the top and since we remove the plate that is at the top, we can say that the plate that was put last comes out first.
 
-Basic Operations on Stack
+Basic Operations on Stack:
 
 In order to make manipulations in a stack, there are certain operations provided to us.
 
-push() to insert an element into the stack.
+1. push() to insert an element into the stack.
 
-pop() to remove an element from the stack.
+2. pop() to remove an element from the stack.
 
-top() Returns the top element of the stack.
+3. top() Returns the top element of the stack.
 
-isEmpty() returns true if stack is empty else false.
+4. isEmpty() returns true if stack is empty else false.
 
-size() returns the size of stack.
+5. size() returns the size of stack.
 
 ![image](https://user-images.githubusercontent.com/125825670/234075036-42e83f3c-f8c1-41b3-8569-d57d15a95ecc.png)
